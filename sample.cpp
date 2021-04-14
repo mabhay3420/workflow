@@ -1,2 +1,2 @@
 #include<iostream>
-#include<algo>
+#include<algorithm>
