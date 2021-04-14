@@ -41,7 +41,10 @@ The last step might have some unwanted changes : Or A pull request from OP.
 	//On branch master
 
 	git checkout abhay_branch
-	git merge master abhay_branch
+	git pull origin master
+	
+	// update remote branch too
+	git push
 
 	// Do Changes
 
